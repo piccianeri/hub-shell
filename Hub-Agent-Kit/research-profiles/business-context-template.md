@@ -9,12 +9,11 @@
 ---
 
 ## Business Overview
-
-**Name**: [Your name]
-**Business**: [Your website URL] — [one-sentence description of what you do and for whom]
-**Years in business**: [How long]
-**Business model**: [How you primarily make money — newsletter-based, courses, services, SaaS, etc.]
-**Stage**: [Where you are — early audience-building, established creator, scaling, transitioning, etc.]
+**Name**: Piccia Neri
+**Business**: piccianeri.com, digital accessibility specialist, UX/UI (user experience/user interface) designer, trainer, and international speaker
+**Years in business**: extensive background in creative design and institutional work (around 30 years) before specialising in digital accessibility over the past several years
+**Business model**: training programmes for organisations, public speaking, consultancy and audits, an online course (ADCC, the Accessible Design and Content Course) in production, and digital products (reference cards, checklists, guides)
+**Stage**: established consultant and trainer, currently expanding into productised education through ADCC and a dedicated learning platform
 
 ---
 
@@ -22,9 +21,12 @@
 
 <!-- List all ways you currently make money, including small ones -->
 
-1. **[Revenue stream name]** — [Brief description, approximate revenue or stage]
-2. **[Revenue stream name]** — [Brief description]
-3. **[Revenue stream name]** — [Brief description]
+1. **Training programmes** — delivered for organisations and teams, tailored to their workflows and document types. Past clients include NatureScot, PUMA, Casey Family Programs, and Boston Consulting Group
+2. **Speaking engagements** — international conferences, including UX London, Hatch Conference Berlin, Beyond Tellerrand, and WeyWeyWeb
+3. **Consultancy and audits** — accessibility audits for organisations and agencies, offered in tiers from quick wins to comprehensive
+4. **The Accessible Design and Content Course (ADCC)** — a 15-module course, in production, launching in waves
+5. **Digital products** — reference cards, checklists, and guides on accessible links, alt text, accessible Word and PDF documents, and accessible data visualisation
+
 
 ---
 
@@ -32,50 +34,56 @@
 
 ### Primary Avatar
 
-**Name** (give them one): [e.g., "Sarah"]
-**Demographics**: [Age range, gender, business type, income range, tech comfort level]
+**Name**: Liz
+**Demographics**: works in-house at a mid-size organisation, in a content, marketing, or design role, not a technical or accessibility specialist by training
 
 **Psychographics**:
-- [What frustrates them about their current situation]
-- [What they've tried that hasn't worked]
-- [What they secretly want but don't believe is possible for them]
-- [What they value most (time, money, autonomy, impact, etc.)]
-- [What they're skeptical about in your space]
+- Knows accessibility matters, often from a compliance nudge or a personal experience, but is stuck translating that conviction into action inside their organisation
+- Has tried generic accessibility checklists or automated scanners and found them unsatisfying or incomplete
+- Secretly wants to be seen as the person who champions this internally, but worries about pushback or being seen as slowing projects down
+- Values clarity and practical steps over legal or technical jargon
+- Sceptical of accessibility being framed purely as a legal risk, since that framing hasn't motivated their colleagues
 
-**What they want from you**:
-- [What specific help they're looking for]
-- [What they'd never get from a generic source]
-- [How they'd describe their transformation if they worked with you]
+**What they want from Piccia**:
+- Concrete, design-led guidance they can act on immediately, not another list of WCAG (Web Content Accessibility Guidelines) clauses
+- A way to make the business case for accessibility to colleagues and leadership
+- To describe their transformation as: going from feeling stuck and unsure, to confidently advocating for and implementing accessible practice
 
-### Secondary Avatar (if applicable)
+### Secondary avatar
 
-[Same format — someone further along who also follows you]
+**Name**: Vicky
+**Demographics**: a designer or developer, already technically competent, wanting to build accessibility properly into their practice rather than as an afterthought
 
+**Psychographics**:
+- Frustrated by accessibility being treated as a separate QA (quality assurance) step rather than part of design
+- Wants to see accessibility framed as a creative discipline, not a constraint
+- Values being shown real examples over abstract principles
+
+**What they want from Piccia**:
+- Proof, through real examples, that accessible design can be creative and ambitious
+- Deeper, more technical content than Jamie needs, but still rooted in design thinking rather than pure compliance
 ---
 
 ## Platforms & Channels
 
 | Platform | Role | Frequency |
 |----------|------|-----------|
-| [Platform] | [Primary / Secondary / Distribution] | [How often you publish] |
-| [Platform] | | |
-| [Platform] | | |
+| Email list (approx. 1,000 subscribers) | Primary | Weekly (but would love to go to twice a week) |
+| LinkedIn | Secondary / distribution (adaptations of email content as well as other content, never same day) | 4 days a week|
+|Substack | To be set up | Desired frequency: same as email
 
 ---
 
 ## Competitive Positioning
 
 **What makes you different from everyone else in your space**:
-<!-- Be specific. "I'm authentic" is not a differentiator. "I'm the only person teaching [specific thing] specifically for [specific audience] using [specific approach]" is a differentiator. -->
-
-[2-4 sentences on your actual differentiation]
+Piccia is one of the few accessibility specialists who combines genuine creative design depth with deep accessibility expertise. Most accessibility specialists come from a compliance or development background; Piccia comes from design and art history first, which shapes how she teaches: through the design process, not through reciting the four WCAG principles.
 
 **The thing you believe that others in your space aren't saying**:
-[Your most contrarian or unique take]
+Best-practice design is natively accessible. Poor design and poor accessibility are usually the same failure, viewed from two different angles. Accessibility is not a constraint on creativity; it is one of the best creative briefs available.
 
 **What you're NOT**:
-<!-- Who you're explicitly NOT for, what you explicitly don't do -->
-[1-2 sentences on what's out of scope]
+**What Piccia is not**: not a pure compliance consultant, not a developer-only or technical-only resource, not someone who treats legal minimums as the goal. Legal compliance is the floor, not the ceiling.
 
 ---
 
@@ -85,23 +93,24 @@
 
 | Offer | Type | Price | Status |
 |-------|------|-------|--------|
-| [Free offer / lead magnet] | Lead gen | Free | [Live / Building] |
-| [Entry offer] | [Course / Workshop / etc.] | $[X] | [Live / Building] |
-| [Mid-tier] | | $[X] | |
-| [Premium / Services] | | $[X]+ | |
-
+| Digital products (reference cards, checklists, guides) | Productised content | *To confirm* | Building / partially live |
+| ADCC | Online course, modular | €497 | In production |
+| Training programmes | Bespoke Organisational training | €2000 per 2-hour session | Live |
+| Audits and consultancy | Service, tiered | €350; e1995; € 4750 | Live |
 ---
 
 ## Strategic Goals (This Year)
 
-1. [Goal 1 — be specific and measurable where possible]
-2. [Goal 2]
-3. [Goal 3]
+1. Launch the first wave of ADCC modules (Foundations, Colour and contrast, POSH [Plain Old Semantic HTML], Inclusive design principles, Images and multimedia)
+2. Build and launch the custom learning platform to host ADCC and future courses
+3. Grow the commercial digital product suite across four content clusters: document structure and screen readers, links and alt text, accessible Word and PDF, and accessible data
+4. Land other speaking slots at prestiogious design and UX conferences
+5. Establish the AI-powered content hub as a working pipeline for email and LinkedIn content
 
 ---
 
 ## The ONE Thing
 
 If you could only communicate one idea to your audience, it would be:
-
+Accessibility is an opportunity, not a limitation, because great design needs a brief, and accessibility is the best brief.
 [One sentence — the through-line of everything you publish]

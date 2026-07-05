@@ -6,120 +6,113 @@
 
 ---
 
-## Content Pillars
+# Content strategy profile
 
-### Pillar 1: [Name]
-**Focus**: [One-sentence description of what this pillar is about]
-**What it covers**: [2-3 sentences on the scope]
-**What it does NOT cover**: [Equally important — what's out of scope for this pillar]
-**Content Types**: [e.g., tutorial posts, opinion pieces, how-to guides, case studies]
-**Example Topics**:
-- [Topic 1]
-- [Topic 2]
-- [Topic 3]
+## Content pillars
 
-### Pillar 2: [Name]
-**Focus**:
-**What it covers**:
-**What it does NOT cover**:
-**Content Types**:
-**Example Topics**:
-- [Topic 1]
-- [Topic 2]
+### Pillar 1: Design-led accessibility
+**Focus**: Best-practice design is natively accessible; accessibility and good design are the same discipline, not separate concerns
+**What it covers**: contrast, layout, typography, user journeys, and how design decisions create or remove barriers
+**What it does NOT cover**: pure code-level or developer-only implementation detail
+**Content types**: opinion pieces, myth-busting posts, real examples from audits and training
+**Example topics**:
+- Why bad design and inaccessible design are usually the same failure
+- Accessibility as a creative brief, not a constraint
 
-### Pillar 3: [Name]
-**Focus**:
-**What it covers**:
-**What it does NOT cover**:
-**Content Types**:
-**Example Topics**:
-- [Topic 1]
-- [Topic 2]
+### Pillar 2: Language and terminology
+**Focus**: precise, respectful language around disability and accessibility, and correcting common confusions
+**What it covers**: disability language, alt text versus captions, acronym use and explanation
+**What it does NOT cover**: broader DEI (diversity, equity, and inclusion) topics outside accessibility
+**Content types**: explainer posts, myth-busting posts
+**Example topics**:
+- Alt text versus captions: different purposes, neither replaces the other
+- Why acronyms are an accessibility issue, not just a style preference
 
-<!-- Add Pillar 4 and 5 if you have them. 3-5 pillars is the sweet spot. More than 5 and focus gets diluted. -->
+### Pillar 3: Legislation and standards
+**Focus**: WCAG (Web Content Accessibility Guidelines) and legislation such as the European Accessibility Act, framed as the floor rather than the ceiling
+**What it covers**: what the law requires, why compliance alone is insufficient, real-world consequences of non-compliance
+**What it does NOT cover**: legal advice; Piccia is not a lawyer
+**Content types**: explainer posts, myth-busting posts
+**Example topics**:
+- Legal compliance is the floor, not the ceiling
+- What automated checkers can and cannot catch
 
----
+### Pillar 4: Cognitive accessibility
+**Focus**: an area Piccia considers frequently overlooked relative to visual and screen reader accessibility
+**What it covers**: information design, data visualisation, comprehension load, plain language
+**What it does NOT cover**: clinical or medical framing of cognitive disability
+**Content types**: teaching posts drawing on real training material
+**Example topics**:
+- Why an incomprehensible chart is an accessibility barrier
+- Choosing the right chart type before considering colour or contrast
 
-## Voice & Tone
+*To confirm: whether AI and learning should stand as its own fifth pillar or fold into an existing one; it's currently active in the pipeline but not yet clearly scoped.*
 
-### The Core Voice Description
-[One paragraph describing your voice — how a close friend or long-time reader would describe how you write and talk. Be honest, not aspirational. How do you ACTUALLY sound?]
+## Voice & tone
 
-### Tone Blend
-[e.g., "60% practical and direct, 25% warm and encouraging, 15% irreverent" — what's your actual mix?]
+### The core voice description
+Direct, warm, and personal. Piccia leads with a real human being or a genuine story before introducing data or a framework. She busts a myth before offering the corrected approach. She is comfortable naming institutions but avoids naming individuals critically. She writes with conviction, sometimes with strategic swearing, never gratuitous.
 
-### You Use These Words/Phrases Naturally
-<!-- Your verbal fingerprint — phrases you actually say, not ones you think sound good -->
-- [Phrase 1]
-- [Phrase 2]
-- [Phrase 3]
+### Tone blend
+Roughly: 50 percent direct and myth-busting, 30 percent warm and personal storytelling, 20 percent assured expertise.
 
-### You NEVER Use These Words/Patterns
-<!-- The cringe list — what makes you wince when you read it -->
-- [Banned phrase/pattern 1]
-- [Banned phrase/pattern 2]
-- [Banned phrase/pattern 3]
+### You use these words/phrases naturally
+- Accessibility is an opportunity, not a limitation
+- Best-practice design is natively accessible
+- Legal compliance is the floor, not the ceiling
 
-### Voice Shifts By Context
-| Context | How Voice Shifts |
+### You never use these words/patterns
+- Em dashes, under any circumstances
+- "This is not X, it's Y" constructions
+- "Here's why"
+- American corporate language such as "circle back"
+- Rhetorical question followed immediately by a short answer
+- Stacked short sentences used as standalone lines
+
+### Voice shifts by context
+| Context | How voice shifts |
 |---------|----------------|
-| Teaching / tutorial content | [How your voice changes] |
-| Opinion / contrarian pieces | [How your voice changes] |
-| Personal / vulnerable | [How your voice changes] |
+| Teaching / tutorial content | leads with a real example before the framework; still direct, but more patient and structured |
+| Opinion / myth-busting pieces | more punchy and direct, short sentences used deliberately as percussion |
+| Personal / story-led content | warmest register, first person, grounded in a specific real moment |
 
----
+## Content formats
 
-## Content Formats
+### Primary formats
 
-### Primary Formats (you publish these regularly)
-
-| Format | Typical Length | Platform | Frequency |
+| Format | Typical length | Platform | Frequency |
 |--------|---------------|----------|-----------|
-| [e.g., Long-form blog post] | [e.g., 1,500-2,500 words] | [e.g., Blog / Newsletter] | [e.g., Weekly] |
-| | | | |
-| | | | |
+| Original article or teaching piece | *To confirm typical length* | Email | *To confirm* |
+| Adaptation | shorter than the email original | LinkedIn | *To confirm, never same day as email* |
 
-### Secondary Formats (occasional)
-- [Format and when you use it]
-- [Format and when you use it]
+### Secondary formats
+- Digital product announcements (reference cards, checklists, guides), occasional
+- Speaking engagement announcements, tied to conference calendar
 
----
+## What you're NOT
 
-## What You're NOT
+Topics or angles explicitly out of scope:
+- Paid advertising strategy or ad copywriting
+- Pure legal advice on compliance
+- Generic "accessibility 101" content with no distinct point of view
 
-<!-- This section helps agents filter out topics and angles that don't fit -->
+Piccia is not trying to be a news aggregator of accessibility headlines, and is not a pure compliance or legal resource. She is not a developer-only technical resource, though technical accuracy matters and is checked.
 
-Topics / angles you explicitly don't cover:
-- [Topic]
-- [Topic]
-- [Topic]
+## Publishing schedule
 
-The kind of content you're NOT trying to create:
-[1-2 sentences — "I'm not trying to be a news aggregator / I'm not a tool reviewer / I don't do [X type of content]"]
+| Platform | Frequency | Day/time | Format |
+|----------|-----------|----------|--------|
+| Email | weekly | woth an aspiration to go twice a week | Original content |
+| Substack | weekly | woth an aspiration to go twice a week | repurposing emails to list? Strategy needs devising |
+| LinkedIn | 34- times a week | Adaptation of emails | But also other content, needs thinking on strategy
 
----
+## Content goals
 
-## Publishing Schedule
+1. Build trust with non-specialist and design audiences before they need consultancy or training
+2. Establish authority on design-led accessibility as a distinct point of view
+3. Support awareness and interest in ADCC and the digital product suite
+4. Be known and found, generating inbound enquiries and hot leads directly in my inbox
 
-| Platform | Frequency | Day / Time (if consistent) | Format |
-|----------|-----------|---------------------------|--------|
-| | | | |
-| | | | |
+## AEO / AI citation goals
 
----
-
-## Content Goals
-
-What you want content to DO (ranked by priority):
-
-1. [Goal 1 — e.g., "Build trust with the target avatar before they're ready to buy"]
-2. [Goal 2 — e.g., "Drive traffic to the quiz / lead magnet"]
-3. [Goal 3 — e.g., "Establish authority on [specific topic]"]
-
----
-
-## AEO / AI Citation Goals
-
-Are you prioritizing getting cited by AI assistants? If yes:
-- What question do you most want AI to answer with your content?
-- What's your "cornerstone claim" — the one thing you want to be known for in AI responses?
+Cornerstone claim: accessibility is an opportunity, not a limitation, taught by someone with genuine design depth as well as accessibility expertise. The question Piccia most wants AI systems to answer with her content: what does accessible, design-led practice actually look like, as distinct from compliance checklists.
