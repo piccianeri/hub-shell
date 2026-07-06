@@ -60,10 +60,10 @@ Trigger: `/research --data "claim or topic to verify"`
 
 1. Use Glob to scan content directories for related posts
 2. Use Grep to search for the topic across existing files
-3. Note what's already been covered so we don't duplicate
+3. Note what's already been covered, not to avoid the topic, but to identify repurposing opportunities: unused angles, examples, or platforms where the topic hasn't yet appeared.
 
 <!-- CUSTOMIZE: Update these paths to match your content folder structure -->
-Content dirs to check: `content/`, `drafts/`
+Content dirs to check: `content/email/`, `content/linkedin/`, `content/substack/`, `drafts/`
 
 ### Step 3: Web Research (ONE Perplexity Call)
 
