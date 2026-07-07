@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "topic": "accessible digital design",
+    "pillar": "Design-led accessibility (Pillar 1), secondary touch on Cognitive accessibility (Pillar 4)",
+    "avatar": "Liz (primary), Vicky (secondary)",
+    "generated_at": "2026-07-06",
+    "existing_coverage": [
+      "LinkedIn 2025 — 'best-practice design is natively accessible', 'natively accessible products', repeated framing",
+      "LinkedIn 2025 — 'Can accessibility double up as a creative brief?'",
+      "LinkedIn 2025 — 67% of accessibility issues stem from design (Deque stat), contrast/colour framing",
+      "Email — 'pretty side vs functional side' myth-busting, screen reader users and layout/alt text",
+      "Email — three components of a natively accessible product: semantic HTML, design principles, typography (tied to Better Accessibility Through Typography Masterclass)",
+      "Email (May 2025, and again April 2026) — AI/vibe-coding generating inaccessible div soup, referencing WebAIM Million report",
+      "Email (April 2026) — WebAIM Million 2026 report stats used already, same six recurring failure categories",
+      "Talk 'The best creative brief' — accessibility as creative brief, conference framing",
+      "Scattered cognitive accessibility mentions (line length, jargon, acronyms) but never as a dedicated standalone piece"
+    ]
+  },
+  "executive_summary": "This is Piccia's most foundational, most repeated topic, and that is fine per the repurposing philosophy, but a plain restatement of 'good design is accessible design' would blend into what has already been said many times, including twice using the AI/vibe-coding angle. The genuinely underserved angle, both in Piccia's own back catalogue and across the watchlist, is accessibility at the design-system level: tokens, components, and reusable patterns as the leverage point, rather than page-by-page fixes. This reframes the familiar message for Liz's actual organisational problem (how to make this stick past one project) and gives Vicky the technical depth she wants without becoming developer-only content.",
+  "key_findings": [
+    {
+      "title": "Digital accessibility is shifting from 'fix at the end' to 'built in from the start' as an industry-wide theme for 2026",
+      "detail": "Industry reporting frames 2026 as the year organisations move accessibility upstream into design and treat it as a shared responsibility across design, engineering, content, QA and leadership, rather than a late-stage QA gate.",
+      "source": "https://www.levelaccess.com/blog/three-insights-that-will-shape-accessibility-strategy-in-2026/",
+      "relevance_to_audience": "Validates Piccia's core thesis externally and gives Liz industry-level cover to make the case internally: this is not just Piccia's opinion, it's where the field is moving."
+    },
+    {
+      "title": "89% of professionals report accessibility as a competitive advantage",
+      "detail": "Widely cited in 2026 industry surveys, tied to customer satisfaction, brand reputation and revenue gains, not just legal risk avoidance.",
+      "source": "https://www.levelaccess.com/blog/five-ways-to-advance-digital-accessibility-in-2026/",
+      "relevance_to_audience": "Gives Liz a business-case statistic that isn't fear-based (EAA/legal), which fits her scepticism of purely legal framing."
+    },
+    {
+      "title": "WebAIM Million 2026 shows accessibility on the top million homepages got measurably worse, not better",
+      "detail": "Average detectable errors per homepage rose from 51 (2025) to 56.1 (2026); WCAG failure rate rose from 94.8% to 95.9%, reversing six years of slow improvement. The same six failure categories (low contrast, missing alt text, missing form labels, empty links, empty buttons, missing document language) have been the top issues since the study began in 2019.",
+      "source": "https://webaim.org/blog/2026-predictions/",
+      "relevance_to_audience": "Already used once in the April 2026 email tied to vibe-coding; still usable as supporting data for a systemic angle, since the repeat-year-on-year nature of these errors is itself evidence that one-off fixes don't hold, which supports the design-system argument."
+    },
+    {
+      "title": "Cognitive accessibility is becoming more actionable in 2026 guidance",
+      "detail": "Industry guidance is moving toward concrete patterns for plain language, predictable UI and reduced cognitive load, rather than treating cognitive accessibility as vague or unaddressable.",
+      "source": "https://www.accessibility.com/blog/ten-strategies-and-best-practices-for-cognitive-accessibility-in-digital-design",
+      "relevance_to_audience": "Confirms Pillar 4 (cognitive accessibility) is a live, current topic worth its own piece; Piccia's content strategy already flags this as underused relative to visual/screen-reader coverage."
+    },
+    {
+      "title": "AI tools are widely being folded into accessibility workflows, but need human review and clear ownership",
+      "detail": "82% of surveyed professionals say they're incorporating AI tools into accessibility strategy, with the caveat that AI speeds up work but still needs human oversight and defined accountability.",
+      "source": "https://www.levelaccess.com/blog/three-insights-that-will-shape-accessibility-strategy-in-2026/",
+      "relevance_to_audience": "Useful supporting context if AI comes up again, but this exact territory (AI-generated design/vibe coding and accessibility) has already been used twice by Piccia, so it should be a supporting point rather than the lead angle this time."
+    }
+  ],
+  "competitor_coverage": [
+    {
+      "source": "Stéphanie Walter",
+      "url": "https://stephaniewalter.design/blog/designing-for-accessibility-creating-inclusive-and-user-centric-products/",
+      "angle": "Designer-facing, tool-led: documenting accessibility in Figma mockups, 9 accessibility myths and pushbacks, colour palette myths, neurodiversity resource round-ups",
+      "strengths": "Highly practical, hands-on, strong enterprise UX credibility; myth-busting format overlaps closely with Piccia's own style",
+      "gap_for_us": "Content is resource/checklist and tool-documentation led (how to annotate a Figma file), not systemic; no coverage found of design systems, tokens, or component-level accessibility as a scaling strategy, and does not address organisational buy-in or the legal/legislative dimension in depth"
+    },
+    {
+      "source": "Natalie MacLees / AAArdvark",
+      "url": "https://aaardvarkaccessibility.com/wcag-plain-english/",
+      "angle": "Developer- and tool-led: WCAG in Plain English (plain-language rewrite of WCAG success criteria), testing/remediation SaaS product",
+      "strengths": "Strong technical credibility, genuinely useful free front-door resource, explicitly rejects overlays",
+      "gap_for_us": "Entry point is WCAG clause simplification, not a design process or creative lens; audience is agencies/developers, not designers or non-specialists; no design-system or component-level framing found"
+    },
+    {
+      "source": "Oliver Schöndorfer / Pimp my Type",
+      "url": "https://pimpmytype.com",
+      "angle": "Typography as the entry point to accessible, expressive design",
+      "strengths": "Distinctive personal brand, tackles the 'accessible means ugly' myth directly, consistent weekly cadence",
+      "gap_for_us": "Typography is the whole centre of gravity, not full-spectrum accessible design practice; no coverage of design systems, cognitive accessibility, or organisational adoption"
+    }
+  ],
+  "content_gaps": [
+    "Accessibility at the design-system level (tokens, components, reusable patterns as the point of leverage) — no coverage found in Piccia's own back catalogue or across the three watchlist competitors",
+    "A dedicated, standalone piece on cognitive accessibility as part of 'accessible digital design' — currently only ever appears as a supporting mention (line length, jargon, acronyms), never as the lead topic, despite content-strategy.md flagging this as an underused pillar",
+    "The specific narrative of 'why the same six accessibility errors have not changed in seven years' as a systemic failure of process, not effort, has data (WebAIM Million) but hasn't been reframed yet as a design-system argument specifically"
+  ],
+  "recommended_angle": "Reframe 'accessible digital design' from a page-level habit to a design-system-level discipline: bake accessibility into design tokens, components and patterns once, so every product built from them inherits it, rather than re-litigating contrast, alt text and focus states on every new page or feature. Use the WebAIM Million 'same six errors, seven years running' data point as proof that one-off, page-by-page fixing doesn't work, and pivot from there to the systemic fix.",
+  "why_this_angle": "It keeps the core, proven message (good design is natively accessible) but moves it up a level of abstraction that neither Piccia's own content nor any watchlist competitor has covered yet. It speaks directly to Liz's real organisational problem: she doesn't just want to know accessibility matters, she wants a way to make it stick across a whole team and product line without re-fighting the same battle every sprint. It also gives Vicky the technical depth she wants (tokens, components, contrast built into the system) delivered through a design-process lens rather than a developer checklist, which is exactly the differentiation Piccia's positioning claims and that Stéphanie Walter's Figma-documentation-led content does not fully occupy.",
+  "suggested_outline": [
+    "Open with the WebAIM Million 2026 fact: the same six accessibility failures, unchanged for seven years, despite everyone 'trying'",
+    "Name the real cause: teams are fixing accessibility at the page level, over and over, instead of at the system level, once",
+    "What 'baking it into the system' actually looks like: accessible colour tokens (contrast built in, not checked after), component-level focus states and semantic structure, type scale and line-length rules set once at the token level",
+    "Why this is a design conversation, not just a developer one: a designer who owns the token and component decisions is doing 80% of the accessibility work before a single line of code is written",
+    "The organisational case for Liz: this is how you stop re-explaining accessibility to every new hire and every new feature team",
+    "Close on the creative brief framing: a well-built accessible design system is not a constraint on future work, it's a gift to every designer who touches the product after you"
+  ],
+  "key_data_points": [
+    {
+      "stat": "Average accessibility errors per homepage rose from 51 to 56.1 year over year; WCAG failure rate rose from 94.8% to 95.9%",
+      "source": "WebAIM Million 2026 report, via webaim.org/blog/2026-predictions",
+      "how_to_use": "Open the piece with this as evidence that current, page-by-page approaches to accessibility are failing at scale, setting up the case for a systemic, design-system-level fix"
+    },
+    {
+      "stat": "The same six failure categories (low contrast, missing alt text, missing form labels, empty links, empty buttons, missing document language) have topped the list every year since 2019",
+      "source": "WebAIM Million, previously referenced in Piccia's own April 2026 email",
+      "how_to_use": "Use as the proof point that these are systemic, structural failures, not one-off mistakes, which is the pivot into the design-system argument; note this exact stat was already used once, so it should support a new argument rather than be the headline finding again"
+    },
+    {
+      "stat": "89% of professionals say accessibility is a competitive advantage",
+      "source": "Levelaccess 2026 industry report",
+      "how_to_use": "Optional supporting stat for the organisational/business-case section aimed at Liz, framed as competitive advantage rather than legal risk, consistent with her scepticism of fear-based framing"
+    }
+  ],
+  "unique_advantage": "Piccia's design-and-art-history-first background (not a compliance or developer background) means she can credibly argue that the design system itself, not just individual pages, is where accessibility should live. Her direct access to real audit and training material (hundreds of audits, in-company workshops) gives her concrete, specific examples of what happens when teams fix accessibility page-by-page versus system-wide, which no competitor working from a checklist or tooling angle can replicate without inventing case studies.",
+  "sources": [
+    { "title": "Three Trends That Will Shape Digital Accessibility in 2026", "url": "https://www.levelaccess.com/blog/three-insights-that-will-shape-accessibility-strategy-in-2026/" },
+    { "title": "Top Strategies to Strengthen Digital Accessibility in 2026", "url": "https://www.levelaccess.com/blog/five-ways-to-advance-digital-accessibility-in-2026/" },
+    { "title": "WebAIM: 2026 Predictions: The Next Big Shifts in Web Accessibility", "url": "https://webaim.org/blog/2026-predictions/" },
+    { "title": "Ten strategies and best practices for cognitive accessibility in digital design", "url": "https://www.accessibility.com/blog/ten-strategies-and-best-practices-for-cognitive-accessibility-in-digital-design" },
+    { "title": "Designing for Accessibility: Creating Inclusive and User-Centric Products (Stéphanie Walter)", "url": "https://stephaniewalter.design/blog/designing-for-accessibility-creating-inclusive-and-user-centric-products/" },
+    { "title": "Accessibility: 9 Myths and Pushbacks (Stéphanie Walter)", "url": "https://stephaniewalter.design/blog/9-accessibility-myths-and-pushbacks-and-how-to-answer-them/" },
+    { "title": "WCAG in Plain English (AAArdvark / Natalie MacLees)", "url": "https://aaardvarkaccessibility.com/wcag-plain-english/" }
+  ]
+}
